@@ -29,7 +29,7 @@ export default function PublishingCompany(){
               <div>
                   <input 
                     type="text" 
-                    placeholder="Nome do Gênero"
+                    placeholder="Nome da Editora"
                     value={name}
                     onChange={e => setName(e.target.value)}
                   />
