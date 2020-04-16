@@ -1,5 +1,5 @@
 # WorldOfBooks
-Aplicação realizada para um processo seletivo seletivo.
+Aplicação realizada para um processo seletivo.
 
 <br>
 
